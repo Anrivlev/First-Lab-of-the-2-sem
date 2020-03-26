@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FirstLab" targetName="FirstLab" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bc08c4f-b6b7-4e36-8836-80c00e5a2df4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Ycwir1wXzhk7wjAReKuvpo7HzW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\CLionProjects\FirstLab" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstLab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FirstLab" TARGET_NAME="FirstLab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FirstLab" RUN_TARGET_NAME="FirstLab">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc08c4f-b6b7-4e36-8836-80c00e5a2df4" name="Default Changelist" comment="" />
+      <created>1583255320942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583255320942</updated>
+      <workItem from="1583255322717" duration="8694000" />
+      <workItem from="1583339098690" duration="7572000" />
+      <workItem from="1583570013196" duration="3174000" />
+      <workItem from="1583577049920" duration="89000" />
+      <workItem from="1583577278669" duration="441000" />
+      <workItem from="1583591704854" duration="12662000" />
+      <workItem from="1583770958833" duration="140000" />
+      <workItem from="1583771145785" duration="308000" />
+      <workItem from="1583771506410" duration="461000" />
+      <workItem from="1583943671568" duration="1012000" />
+      <workItem from="1583945137058" duration="1199000" />
+      <workItem from="1583946412628" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1583602515343">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583602515343" />
+    <state width="1557" height="136" key="GridCell.Tab.0.bottom" timestamp="1583946553149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="136" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
+    <state width="1557" height="136" key="GridCell.Tab.0.center" timestamp="1583946553149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="136" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
+    <state width="1557" height="136" key="GridCell.Tab.0.left" timestamp="1583946553149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="136" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
+    <state width="1557" height="136" key="GridCell.Tab.0.right" timestamp="1583946553149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="136" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
+    <state width="1557" height="17" key="GridCell.Tab.1.bottom" timestamp="1583946344312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="17" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583946344312" />
+    <state width="1557" height="17" key="GridCell.Tab.1.center" timestamp="1583946344312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="17" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583946344312" />
+    <state width="1557" height="17" key="GridCell.Tab.1.left" timestamp="1583946344312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="17" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583946344312" />
+    <state width="1557" height="17" key="GridCell.Tab.1.right" timestamp="1583946344312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="17" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583946344312" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1583345478672">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583345478672" />
+    <state x="896" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1583946414944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="896" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583946414944" />
+    <state x="361" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583575992767">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="361" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1583575992767" />
+    <state x="856" y="199" key="run.anything.popup" timestamp="1583344886074">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="856" y="199" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1583344886074" />
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1583341978874">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583341978874" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ctest.h</url>
+          <line>188</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
