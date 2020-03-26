@@ -3,4 +3,4 @@ project(FirstLab C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(FirstLab testspoly.c)
+add_executable(FirstLab main.c)
