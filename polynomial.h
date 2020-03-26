@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <windef.h>
+#define max(x, y) ( (x) > (y) ? (x) : (y) )
+#define min(x, y) ( (x) < (y) ? (x) : (y) )
 typedef enum {INTEGER, REAL} Eltype;
 typedef struct
 {
@@ -95,6 +96,11 @@ Polynomial multiplypoly(Polynomial a, Polynomial b)
     if (a.eltype != b.eltype)
     {
         exit(1);
+    }
+    if (a.size == 0 || b.size == 0)
+    {
+        Polynomial result = createPolynomial(a.eltype, 0);
+        return result;
     }
     int size = (a.size+b.size-1);
     Polynomial result = createPolynomial(a.eltype, size);

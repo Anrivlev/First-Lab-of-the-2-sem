@@ -21,7 +21,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/First-Lab-of-the-2-sem" />
+  </component>
   <component name="ProjectId" id="1Ycwir1wXzhk7wjAReKuvpo7HzW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,6 +77,8 @@
       <workItem from="1583943671568" duration="1012000" />
       <workItem from="1583945137058" duration="1199000" />
       <workItem from="1583946412628" duration="141000" />
+      <workItem from="1585165979702" duration="568000" />
+      <workItem from="1585232432217" duration="647000" />
     </task>
     <servers />
   </component>
@@ -84,22 +90,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583602515343" />
-    <state width="1557" height="136" key="GridCell.Tab.0.bottom" timestamp="1583946553149">
+    <state width="1557" height="136" key="GridCell.Tab.0.bottom" timestamp="1585166118121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="136" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
-    <state width="1557" height="136" key="GridCell.Tab.0.center" timestamp="1583946553149">
+    <state width="1557" height="136" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585166118121" />
+    <state width="1557" height="136" key="GridCell.Tab.0.center" timestamp="1585166118121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="136" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
-    <state width="1557" height="136" key="GridCell.Tab.0.left" timestamp="1583946553149">
+    <state width="1557" height="136" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585166118121" />
+    <state width="1557" height="136" key="GridCell.Tab.0.left" timestamp="1585166118120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="136" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
-    <state width="1557" height="136" key="GridCell.Tab.0.right" timestamp="1583946553149">
+    <state width="1557" height="136" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585166118120" />
+    <state width="1557" height="136" key="GridCell.Tab.0.right" timestamp="1585166118121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="136" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583946553149" />
+    <state width="1557" height="136" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585166118121" />
     <state width="1557" height="17" key="GridCell.Tab.1.bottom" timestamp="1583946344312">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -120,10 +126,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583345478672" />
-    <state x="896" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1583946414944">
+    <state x="896" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1585232472771">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="896" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583946414944" />
+    <state x="896" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585232472771" />
     <state x="361" y="165" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583575992767">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
